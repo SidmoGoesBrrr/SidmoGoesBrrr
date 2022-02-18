@@ -3,7 +3,7 @@
 		<img src="https://avatars.githubusercontent.com/u/60550481?s=120&v=4g"/>
 	</a>
 </p>
-
+A epic gamer who codes lol 
 <p align="center">
 	<tr>
 		<td align="center" style="padding=0;width=50%;">
