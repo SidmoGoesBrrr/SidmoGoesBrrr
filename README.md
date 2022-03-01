@@ -4,9 +4,8 @@
 	</a>
 </p>
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TechnoFrost27)](https://github.com/anuraghazra/github-readme-stats)
 A epic gamer who codes lol 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jogeshgupta963)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
 	<tr>
