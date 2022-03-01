@@ -3,7 +3,6 @@
 		<img src="https://avatars.githubusercontent.com/u/60550481?s=120&v=4g"/>
 	</a>
 </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TechnoFrost27)](https://github.com/anuraghazra/github-readme-stats)
 
 A epic gamer who codes lol 
 
