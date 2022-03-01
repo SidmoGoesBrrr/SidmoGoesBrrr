@@ -1,6 +1,5 @@
 <p align="center">
 	<a href="https://github.com/TechnoFrost27">
-		[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jogeshgupta963)](https://github.com/anuraghazra/github-readme-stats)
 		<img src="https://avatars.githubusercontent.com/u/60550481?s=120&v=4g"/>
 	</a>
 </p>
