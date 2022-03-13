@@ -4,7 +4,6 @@
 	</a>
 </p>
 
-A epic gamer who codes lol 
 
 <p align="center">
 	<tr>
