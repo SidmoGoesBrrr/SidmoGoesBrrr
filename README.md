@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
 	<a href="https://github.com/SidmoGoesBrrr">
 		<img src="https://avatars.githubusercontent.com/u/60550481?s=120&v=4g"/>
 	</a>
