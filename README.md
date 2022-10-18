@@ -1,5 +1,5 @@
 <h1 align="center">Heyya I am Siddhant Mohile</h1>
-<h3 align="center">A learning developer who hates r</h3>
+<h3 align="center">A learning developer who hates semicolons with a passion</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sidmogoesbrrr&label=Profile%20views&color=0e75b6&style=flat" alt="sidmogoesbrrr" /> </p>
 
