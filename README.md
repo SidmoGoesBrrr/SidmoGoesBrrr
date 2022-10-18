@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **react-native, python**
 
-- 👨‍💻 All of my projects are available at [this github account](this github account)
+- 👨‍💻 All of my projects are available at [my github account](https://github.com/SidmoGoesBrrr/)
 
 - 📫 How to reach me **siddhant@zodevelopers.com**
 
