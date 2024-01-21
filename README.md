@@ -1,11 +1,10 @@
-<h1 align="center">Heyya I am Siddhant Mohile</h1>
-<h3 align="center">A learning developer who hates semicolons with a passion</h3>
+<h1 align="center">I'm Siddhant Mohile</h1>
+<h3 align="center">Aspiring Student | Budding Entrepreneur | Tech Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sidmogoesbrrr&label=Profile%20views&color=3949AB&style=flat" alt="sidmogoesbrrr" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sidmogoesbrrr" alt="sidmogoesbrrr" /></a> </p>
-
-- 🌱 I’m currently learning **react-native, python**
+![](https://hit.yhype.me/github/profile?user_id=60550481)
+[![SidmoGoesBrrr's GitHub | Stats](https://stats.quine.sh/SidmoGoesBrrr/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=SidmoGoesBrrr)
+- 🌱 I’m currently learning **docker, nextJS**
 
 - 👨‍💻 All of my projects are available at [this github account](https://github.com/SidmoGoesBrrr/SidmoGoesBrrr)
 
