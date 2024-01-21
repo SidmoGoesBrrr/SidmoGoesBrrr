@@ -1,7 +1,6 @@
 <h1 align="center">I'm Siddhant Mohile</h1>
 <h3 align="center">Aspiring Student | Budding Entrepreneur | Tech Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sidmogoesbrrr&label=Profile%20views&color=3949AB&style=flat" alt="sidmogoesbrrr" /> </p>
 
 ![](https://hit.yhype.me/github/profile?user_id=60550481)
 
