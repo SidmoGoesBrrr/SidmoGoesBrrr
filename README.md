@@ -2,8 +2,11 @@
 <h3 align="center">Aspiring Student | Budding Entrepreneur | Tech Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sidmogoesbrrr&label=Profile%20views&color=3949AB&style=flat" alt="sidmogoesbrrr" /> </p>
+
 ![](https://hit.yhype.me/github/profile?user_id=60550481)
+
 [![SidmoGoesBrrr's GitHub | Stats](https://stats.quine.sh/SidmoGoesBrrr/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=SidmoGoesBrrr)
+
 - 🌱 I’m currently learning **docker, nextJS**
 
 - 👨‍💻 All of my projects are available at [this github account](https://github.com/SidmoGoesBrrr/SidmoGoesBrrr)
