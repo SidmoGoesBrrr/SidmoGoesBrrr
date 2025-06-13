@@ -4,7 +4,6 @@
 
 ![](https://hit.yhype.me/github/profile?user_id=60550481)
 
-[![SidmoGoesBrrr's GitHub | Stats](https://stats.quine.sh/SidmoGoesBrrr/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=SidmoGoesBrrr)
 
 - 🌱 I’m currently learning **docker, nextJS**
 
