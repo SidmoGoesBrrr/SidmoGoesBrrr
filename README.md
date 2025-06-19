@@ -5,11 +5,11 @@
 ![](https://hit.yhype.me/github/profile?user_id=60550481)
 
 
-- 🌱 I’m currently learning **docker, nextJS**
+- 🌱 I’m currently learning **rust, typescript**
 
 - 👨‍💻 All of my projects are available at [this github account](https://github.com/SidmoGoesBrrr/SidmoGoesBrrr)
 
-- 📫 How to reach me **siddhant@zodevelopers.com**
+- 📫 How to reach me **meetsiddhant@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
